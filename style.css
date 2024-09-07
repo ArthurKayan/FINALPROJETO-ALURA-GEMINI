@@ -173,5 +173,6 @@ footer {
 /* Em seu arquivo style.css */
 img {
     width: 500px; 
-    height: 500px; 
+    height: 500px;
+    overflow: hidden;
   }
