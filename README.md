@@ -1,4 +1,4 @@
-Título do projeto: PROJETO 2 (Psique Humana)
+Título do projeto: PROJETO ALURA GEMINI (Psique Humana)
 
 Descrição:
 Este projeto é uma página da web básica projetada para fornecer informações sobre a psique humana, incluindo características e possíveis distúrbios.
